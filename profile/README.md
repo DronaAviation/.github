@@ -43,4 +43,3 @@ Drone technology has so much potential. Whether you’re a student, teacher, hob
 
 ---
 
-<sub>🚀 Join the movement and start creating with us! Check out our [GitHub profile](https://github.com/dronaaviation) for more projects.</sub>
