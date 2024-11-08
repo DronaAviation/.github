@@ -1,23 +1,46 @@
-## Hey, this is Drona Aviation 👋
+## Hey, we’re Drona Aviation 👋
 
-![Untitled design (2)](https://github.com/user-attachments/assets/0688da15-2217-49dd-af53-3d4beebfeeb1)
+![An illustration showcasing drone innovation with a focus on education, DIY projects, and students exploring drone technology. The backdrop includes Indian landmarks like the Gateway of India and the IIT Bombay campus.](https://github.com/user-attachments/assets/ecd93625-2286-48fb-9819-ecd3aa0327c3)
 
-Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries**. 🤯 But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system. 🪐 Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+Welcome to Drona Aviation! Since **2014**, we've been on a mission to democratize drone technology by making it accessible, educational, and downright fun. We’re here to inspire young innovators, hobbyists, and future engineers with the tools and resources they need to **build, program, and fly their own drones**. 
 
-### 🍿 An interconnected community
+### 🌍 Building a community of drone enthusiasts
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+Drona Aviation believes in the power of **learning by doing**. Our community is the beating heart of our work, bringing together people passionate about technology, innovation, and drones! Here’s a glimpse of what we’re achieving together:
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
+- **Pluto 1.2 Drone Kit** - An educational, programmable nano drone designed to teach coding, engineering, and flight basics through hands-on projects and experimentation.
+- **Cygnus IDE and PlutoBlocks** - Our open-source SDK and IDE allow anyone to start coding and creating custom drone applications from scratch.
+- **Collaboration with Atal Tinkering Labs** - Helping students across India unlock their potential by integrating drones into STEM learning programs.
 
-Now that we are talking about the important things, ☝️ are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+### 🚀 Our open-source mission
 
-### 🦦 Contributing to the ecosystem
+Our journey in open-source lets us build tools for innovation while making drone technology accessible. Here are some key resources we provide:
 
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+- **[Cygnus IDE](https://github.com/dronaaviation/cygnus-ide)** - Code, customize, and control drones using our open-source IDE.
+- **[PlutoBlocks](https://github.com/dronaaviation/plutoblocks)** - A visual programming interface for block-based coding, empowering beginners to start building their own drone programs.
+- **[Documentation and Tutorials](https://docs.dronaaviation.com)** - Explore in-depth guides, example projects, and comprehensive resources to master drone technology.
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+### 📚 Learning and experimenting
+
+We’re constantly innovating and adding new resources for aspiring drone enthusiasts. Whether it’s setting up your first drone, experimenting with sensors, or designing complex flight paths, we’ve got you covered!
+
+- **Explore our GitHub Repositories** - Dive into our projects to learn, experiment, and contribute!
+- **Follow us on [LinkedIn](https://www.linkedin.com/company/drona-aviation/)** - Stay updated on our latest projects, webinars, and innovations in the drone world.
+  
+### 🤖 Let's build the future of drones together
+
+Drone technology has so much potential. Whether you’re a student, teacher, hobbyist, or developer, we invite you to be a part of Drona Aviation’s journey to create accessible and innovative drone solutions. Get started with our open-source projects, and feel free to reach out if you’d like to contribute or collaborate.
+
+<details> 
+	<summary>“Tell me more about the Drona ecosystem!”</summary>
+	<br>
+	<ul>
+		<li>Drona Aviation’s products are built using a blend of **hardware and software innovation** that’s fully customizable and open-source.</li>
+		<li>We support educational institutions and hobbyists in building drone experiments from scratch using our comprehensive tools and kits.</li>
+		<li>Our community forum is a thriving hub for exchanging ideas, showcasing projects, and receiving support from Drona experts and other users.</li>
+	</ul>
+</details>
+
+---
+
+<sub>🚀 Join the movement and start creating with us! Check out our [GitHub profile](https://github.com/dronaaviation) for more projects.</sub>
