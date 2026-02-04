@@ -1,45 +1,185 @@
-## Hey, we’re Drona Aviation 👋
+# Hey, we're Drona Aviation! 👋
+
+**Builders of Pluto Drones – modular programmable drones for hands-on learning and innovation in robotics and coding.**
+
 
 ![An illustration showcasing drone innovation with a focus on education, DIY projects, and students exploring drone technology. The backdrop includes Indian landmarks like the Gateway of India and the IIT Bombay campus.](https://github.com/user-attachments/assets/ecd93625-2286-48fb-9819-ecd3aa0327c3)
 
-Welcome to Drona Aviation! Since **2014**, we've been on a mission to democratize drone technology by making it accessible, educational, and downright fun. We’re here to inspire young innovators, hobbyists, and future engineers with the tools and resources they need to **build, program, and fly their own drones**. 
+---
 
-### 🌍 Building a community of drone enthusiasts
+Since 2014, our mission has been simple yet powerful:
 
-Drona Aviation believes in the power of **learning by doing**. Our community is the beating heart of our work, bringing together people passionate about technology, innovation, and drones! Here’s a glimpse of what we’re achieving together:
+👉 **Democratize drone technology by making it accessible, hands-on, and meaningful for students, educators, hobbyists, and developers.**
 
-- **Pluto 1.2 Drone Kit** - An educational, programmable nano drone designed to teach coding, engineering, and flight basics through hands-on projects and experimentation.
-- **Cygnus IDE and PlutoBlocks** - Our open-source SDK and IDE allow anyone to start coding and creating custom drone applications from scratch.
-- **Collaboration with Atal Tinkering Labs** - Helping students across India unlock their potential by integrating drones into STEM learning programs.
-
-### 🚀 Our open-source mission
-
-Our journey in open-source lets us build tools for innovation while making drone technology accessible. Here are some key resources we provide:
-
-- **[Cygnus IDE](https://github.com/dronaaviation/cygnus-ide)** - Code, customize, and control drones using our open-source IDE.
-- **[PlutoBlocks](https://github.com/dronaaviation/plutoblocks)** - A visual programming interface for block-based coding, empowering beginners to start building their own drone programs.
-- **[Documentation and Tutorials](https://docs.dronaaviation.com)** - Explore in-depth guides, example projects, and comprehensive resources to master drone technology.
-
-### 📚 Learning and experimenting
-
-We’re constantly innovating and adding new resources for aspiring drone enthusiasts. Whether it’s setting up your first drone, experimenting with sensors, or designing complex flight paths, we’ve got you covered!
-
-- **Explore our GitHub Repositories** - Dive into our projects to learn, experiment, and contribute!
-- **Follow us on [LinkedIn](https://www.linkedin.com/company/drona-aviation/)** - Stay updated on our latest projects, webinars, and innovations in the drone world.
-  
-### 🤖 Let's build the future of drones together
-
-Drone technology has so much potential. Whether you’re a student, teacher, hobbyist, or developer, we invite you to be a part of Drona Aviation’s journey to create accessible and innovative drone solutions. Get started with our open-source projects, and feel free to reach out if you’d like to contribute or collaborate.
-
-<details> 
-	<summary>“Tell me more about the Drona ecosystem!”</summary>
-	<br>
-	<ul>
-		<li>Drona Aviation’s products are built using a blend of **hardware and software innovation** that’s fully customizable and open-source.</li>
-		<li>We support educational institutions and hobbyists in building drone experiments from scratch using our comprehensive tools and kits.</li>
-		<li>Our community forum is a thriving hub for exchanging ideas, showcasing projects, and receiving support from Drona experts and other users.</li>
-	</ul>
-</details>
+We are the creators of Pluto Drones – DIY nano drone platforms that let you build, fly, and *program real drones,* not just simulations.
 
 ---
 
+## What are Pluto Drones?
+
+Pluto Drones are educational, programmable nano drones designed to teach:
+
+- **Drone flight control systems**
+- **Coding & embedded programming**
+- **Robotics and automation**
+- **Real-world engineering concepts**
+- **STEM learning through hands-on experimentation**
+
+**Trusted in Education:**  
+Pluto drones are present in 16+ countries, used by 50,000+ students, educators, and innovation labs across schools, colleges, and *8000+ Atal Tinkering Labs (ATL)* – government educational labs in India for hands-on STEM and drone learning.
+
+Unlike toy drones or limited exposure platforms, Pluto is a **modular drone**, making it ideal for:
+
+- STEM education & classrooms
+- School and college projects
+- Robotics clubs & maker spaces
+- Research and rapid prototyping
+- DIY drone builders
+
+---
+
+## Why Pluto Drones?
+
+- **Modular Hardware & Software**
+- **DIY Build-It-Yourself Drone Kits**
+- **Beginner to Advanced Programming Support**
+- **Used in Schools, Colleges, and Innovation Labs**
+- **Made in India**
+
+Pluto bridges the gap between learning concepts and building *real* aerial systems.
+
+---
+
+## Who Is Pluto For?
+
+### Students & Educators
+
+- Learn drone technology through practical experimentation
+- Ideal for STEM labs, ATL programs, workshops & competitions
+- Start with visual block coding and progress to real programming
+
+### Makers & Hobbyists
+
+- Customize drone behavior and hardware
+- Add sensors, modules, and accessories
+- Experiment freely using open APIs
+
+### Developers & Researchers
+
+- Modular flight firmware
+- Programmable SDK and APIs
+- Suitable for robotics, autonomy & research projects
+
+---
+
+## Pluto Drone Products
+
+### Pluto 1.2 – Educational DIY Nano Drone Kit
+
+- Beginner-friendly programmable drone
+- Modular and crash-resistant design
+- Supports block-based coding, C++ & Python
+- Smartphone app + API-based control
+
+👉 *Best for STEM education and first-time drone learners*
+
+### Pluto X – Advanced Educational Nano Drone
+
+- HD Camera and sensor expansion support
+- Advanced programming workflows
+- Designed for robotics & research use cases
+
+👉 *Built for advanced students, developers, and innovation labs*
+
+---
+
+## Modular Pluto Drone Ecosystem
+
+Pluto drones are powered by a complete modular software ecosystem:
+
+- **Pluto IDE:** Programming and development environment for Pluto drones
+- **PlutoBlocks:** Visual, block-based programming for beginners
+- **Magis Firmware:** Modular flight control firmware
+- **SDKs & Sample Codes:** Learn, modify, and build custom drone behaviors
+
+**Explore our repositories to get started 🚀**
+
+---
+
+## Quick Start – Get Your Pluto Drone Flying
+
+New to Pluto? Follow these simple steps:
+
+1. **Assemble your Pluto Drone:** Build your Pluto 1.2 or Pluto X using the DIY drone kit and guide.
+2. **Code using PlutoBlocks or Pluto IDE:** Start with PlutoBlocks for visual, block-based programming or use Pluto IDE to write code in C++ or Python to program and communicate with your drone.
+3. **Flash the Firmware:** Upload the modular Magis firmware and connect to the drone.
+4. **Fly & Code:** Fly your drone and iteratively modify your code to experiment with flight behavior, logic, and automation.
+
+
+---
+
+## What Can You Build with Pluto?
+
+- Sensor-based navigation
+- Camera-based experiments
+- Robotics integrations
+- Custom flight modes
+- STEM and academic projects
+
+*Pluto is designed to grow with you from beginner experiments to advanced innovation.*
+
+---
+
+## Building a Community of Drone Innovators
+
+At Drona Aviation, we strongly believe in *learning by doing*. Our community includes:
+
+- Students building their first drones
+- Educators running drone-based STEM programs
+- Makers creating custom drone projects
+- Developers contributing to modular firmware
+
+We actively collaborate with:
+
+- Schools & Colleges
+- Atal Tinkering Labs (ATL)
+- Innovation hubs and research labs
+
+---
+
+## Documentation & Learning Resources
+
+- Tutorials & Blogs
+- Workshops & Educational Programs
+- Community Projects
+
+---
+
+## 🤝 Contributing & Collaboration
+
+Our drones are built for learners, makers, and innovators. You’re welcome to:
+
+- Report issues
+- Suggest features
+- Contribute code
+- Share educational or research projects
+- Fork, experiment, and help us grow the Pluto ecosystem
+
+---
+
+## Get in Touch
+
+For product support, workshops, or collaborations:
+
+📧 support@plutodrones.com  
+🌐 [dronaaviation.com](https://www.dronaaviation.com)
+
+**Check out our social media:**
+
+- Instagram: [@plutodrones](https://instagram.com/plutodrones)
+- LinkedIn: [@dronaaviation](https://www.linkedin.com/company/drona-aviation-pvt-ltd-/)
+- YouTube: [@dronaaviation](https://youtube.com/@dronaaviation)
+
+⭐ *If Pluto helps you learn or build something awesome, don’t forget to star the repo!*
+
+_Your support fuels our modular Pluto drone ecosystem._ 🚀
