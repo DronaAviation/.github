@@ -146,7 +146,6 @@ We actively collaborate with:
 
 ## Documentation & Learning Resources
 
-- **Official Documentation:**
 - Tutorials & Blogs
 - Workshops & Educational Programs
 - Community Projects
@@ -175,7 +174,7 @@ For product support, workshops, or collaborations:
 **Check out our social media:**
 
 - Instagram: [@plutodrones](https://instagram.com/plutodrones)
-- LinkedIn: [@dronaaviation](https://www.linkedin.com/company/drona-aviation/)
+- LinkedIn: [@dronaaviation](https://www.linkedin.com/company/drona-aviation-pvt-ltd-/)
 - YouTube: [@dronaaviation](https://youtube.com/@dronaaviation)
 
 ⭐ *If Pluto helps you learn or build something awesome, don’t forget to star the repo!*
