@@ -3,6 +3,7 @@
 ![An illustration showcasing drone innovation with a focus on education, DIY projects, and students exploring drone technology. The backdrop includes Indian landmarks like the Gateway of India and the IIT Bombay campus.](https://github.com/user-attachments/assets/ecd93625-2286-48fb-9819-ecd3aa0327c3)
 **Builders of Pluto Drones – modular programmable drones for hands-on learning and innovation in robotics and coding.**
 
+
 ---
 
 Since 2014, our mission has been simple yet powerful:
